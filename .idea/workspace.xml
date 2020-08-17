@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21a81d11-2088-4764-b925-04a9966f8e9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/testwork.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="21a81d11-2088-4764-b925-04a9966f8e9a" name="Default Changelist" comment="fff">
       <change beforePath="$PROJECT_DIR$/test2/src/main/java/test/test2/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/test2/src/main/java/test/test2/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,9 +51,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597675764260</updated>
-      <workItem from="1597675765838" duration="272000" />
+      <workItem from="1597675765838" duration="502000" />
     </task>
+    <task id="LOCAL-00001" summary="fff">
+      <created>1597676164372</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597676164372</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -70,14 +77,22 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fff" />
+    <option name="LAST_COMMIT_MESSAGE" value="fff" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1597675819406">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597675819406" />
-    <state x="749" y="419" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1597675865487">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597676243233">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="749" y="419" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597675865487" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597676243233" />
+    <state x="749" y="419" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1597676107603">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="749" y="419" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597676107603" />
   </component>
 </project>
